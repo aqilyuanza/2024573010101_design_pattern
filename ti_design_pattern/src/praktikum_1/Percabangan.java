@@ -1,4 +1,4 @@
-package modul_1;
+package praktikum_1;
 
 public class Percabangan {
     public static void main(String[] args) {
@@ -7,7 +7,7 @@ public class Percabangan {
         if (nilai >= 75) {
             System.out.println("Anda lulus!");
         } else {
-            System.out.println("Anda tidak lulus.");
+            System.out.println("Anda tidak lulus!");
         }
     }
 }
