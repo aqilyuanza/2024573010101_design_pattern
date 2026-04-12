@@ -376,6 +376,17 @@ Practice Problem:
         }
         }
 #### Output :
+![prak6segitiga.png](gambar/prak6segitiga.png)
+
+## 3. Kesimpulan :
+Secara keseluruhan, dasar pemrograman Java memberikan pemahaman awal tentang bagaimana sebuah program dibuat dan dijalankan menggunakan bahasa Java. Dalam pembelajaran dasar ini, dipelajari konsep-konsep penting seperti struktur program Java, penggunaan variabel dan tipe data, operator, percabangan (if–else), perulangan, serta cara menampilkan dan menerima input dalam program.
+
+Melalui pemahaman dasar tersebut, seseorang dapat mulai membangun logika pemrograman yang terstruktur dan sistematis. Java juga dikenal sebagai bahasa yang bersifat object-oriented, sehingga dasar-dasar ini menjadi fondasi penting sebelum mempelajari konsep yang lebih lanjut seperti class, object, inheritance, dan lainnya.
+
+Dengan menguasai dasar pemrograman Java, pemula akan lebih mudah mengembangkan aplikasi sederhana hingga program yang lebih kompleks di tahap pembelajaran berikutnya.
+
+## 4. Referensi :
+https://hackmd.io/@mohdrzu/BkBn4sEcyl#Lab-01
 
 
 
