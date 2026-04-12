@@ -578,8 +578,33 @@ Berikut adalah contoh program konsol sederhana yang mengimplementasikan seluruh 
 5. Jalankan program untuk melihat hasilnya.
 
 #### Screenshoot Hasil
+![Perpustakaan1.png](gambar/Perpustakaan1.png)
+![Perpustakaan2.png](gambar/Perpustakaan2.png)
+![Perpustakaan3.png](gambar/Perpustakaan3.png)
 
+#### Penjelasan Program
+1. Class buku
+-   Memiliki atribut judul, pengarang, dan tahunTerbit (semua private).
+-   Menggunakan constructor (default dan parameterized) untuk inisialisasi objek.
+-   Menggunakan setter dan getter untuk mengakses dan memodifikasi atribut.
+-   Memiliki method tampilkanInfo() untuk menampilkan informasi buku.
 
+2. Class Perpustakaan:
+-   Menggunakan ArrayList untuk menyimpan daftar buku.
+-   Memiliki method tambahBuku(), tampilkanSemuaBuku(), dan cariBuku() untuk mengelola buku.
+
+3. Class Main:
+-   Menyediakan menu interaktif untuk pengguna.
+-   Menggunakan Scanner untuk menerima input dari pengguna.
+-   Mengimplementasikan semua fitur yang telah dibuat di class Buku dan Perpustakaan.
+
+## 3. Kesimpulan
+Konsep dasar Object-Oriented Programming (OOP) menggunakan Java merupakan fondasi penting dalam pengembangan perangkat lunak yang terstruktur dan efisien. Melalui penerapan konsep seperti class dan object, program dapat dibangun berdasarkan representasi dunia nyata sehingga lebih mudah dipahami. Selain itu, prinsip utama OOP yaitu encapsulation, inheritance, polymorphism, dan abstraction membantu dalam mengelola kompleksitas program, meningkatkan keamanan data, serta memungkinkan penggunaan kembali kode (reusability).
+
+Bahasa Java menyediakan dukungan yang lengkap terhadap konsep-konsep tersebut, sehingga sangat cocok digunakan untuk mempelajari dan mengimplementasikan OOP. Dengan memahami konsep dasar ini, seorang programmer dapat membuat program yang lebih modular, fleksibel, dan mudah dikembangkan di masa depan.
+
+## 4. Referensi
+https://hackmd.io/@mohdrzu/Bygtu8g0iJg
 
 
 
