@@ -1068,13 +1068,35 @@ Berikut adalah contoh aplikasi console pemesanan tiket untuk sebuah konferensi y
         }
         }
 ##### Screenshoot Hasil
+![Tiket1.png](gambar/Tiket1.png)
+![Tiket2.png](gambar/Tiket2.png)
+![Tiket3.png](gambar/Tiket3.png)
+![Tiket4.png](gambar/Tiket4.png)
 
+#### Fitur Aplikasi
+1. Lihat Daftar Tiket: Menampilkan jenis tiket dan harganya.
+2. Pesan Tiket: Memungkinkan pengguna memesan tiket dengan memilih jenis dan jumlah.
+3. Lihat Detail Pesanan: Menampilkan detail pesanan berdasarkan nomor pesanan.
+4. Batalkan Pesanan: Menghapus pesanan berdasarkan nomor pesanan.
+5. Hitung Total Harga: Menghitung total harga setelah diskon (jika ada).
 
+#### Penjelasan Program:
+1. Encapsulation: Atribut seperti jenis dan harga dienkapsulasi dalam class Tiket.
+2. Inheritance: TiketReguler dan TiketVIP mewarisi class Tiket.
+3. Polymorphism: Method hitungDiskon() di-override di subclass.
+4. Abstraction: Class Tiket adalah abstract class dengan method abstrak hitungDiskon().
 
+Aplikasi ini siap digunakan dan dapat dikembangkan lebih lanjut dengan menambahkan fitur seperti penyimpanan data ke file atau database. Selamat mencoba!
 
+## 3. Kesimpulan
+Empat pilar Object-Oriented Programming (OOP) yaitu Encapsulation, Inheritance, Polymorphism, dan Abstraction merupakan dasar penting dalam pengembangan program menggunakan Java. Keempat konsep ini saling melengkapi dalam membangun sistem yang terstruktur, efisien, dan mudah dikembangkan.
 
+Encapsulation membantu menjaga keamanan data dengan membatasi akses langsung, Inheritance memungkinkan penggunaan kembali kode sehingga lebih efisien, Polymorphism memberikan fleksibilitas dalam penggunaan metode, dan Abstraction menyederhanakan kompleksitas program dengan hanya menampilkan bagian yang penting.
 
+Dengan memahami dan menerapkan keempat pilar tersebut, programmer dapat menghasilkan program yang lebih rapi, mudah dipelihara, serta memiliki kualitas yang lebih baik dalam pengembangan perangkat lunak.
 
+## 4. Referensi
+https://hackmd.io/@mohdrzu/rk5sz2X21l
 
 
 

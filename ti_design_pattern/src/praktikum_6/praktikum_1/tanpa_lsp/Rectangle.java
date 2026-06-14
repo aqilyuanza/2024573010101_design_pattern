@@ -1,0 +1,18 @@
+package praktikum_6.praktikum_1.tanpa_lsp;
+
+public class Rectangle {
+    protected int width;
+    protected int height;
+
+    public void setWidth(int width) {
+        this.width = width;
+    }
+
+    public void setHeight(int width) {
+        this.height = height;
+    }
+
+    public int calculateArea() {
+        return width * height;
+    }
+}
